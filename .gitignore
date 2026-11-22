@@ -1,0 +1,25 @@
+﻿# Mathematica temporary files
+*.tmp
+*.log
+*.lck
+*.mx
+*.nb~
+*.wl~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets and API keys
+.env
+.env.*
+!.env.example
+
+# Editor configuration
+.vscode/
+.idea/
